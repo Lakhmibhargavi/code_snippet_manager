@@ -253,7 +253,3 @@ MERN_Project/
 - Ensure Docker is running
 - Check runner service logs: `docker logs snippet-runner`
 
-
----
-
-**Built with ❤️ by the Snippet Manager Team**
